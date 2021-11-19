@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ApricusGHPDeploy/static/css/main.daa26275.chunk.css",
+    "main.js": "/ApricusGHPDeploy/static/js/main.1b37a782.chunk.js",
+    "main.js.map": "/ApricusGHPDeploy/static/js/main.1b37a782.chunk.js.map",
+    "runtime-main.js": "/ApricusGHPDeploy/static/js/runtime-main.6307e71c.js",
+    "runtime-main.js.map": "/ApricusGHPDeploy/static/js/runtime-main.6307e71c.js.map",
+    "static/css/2.383c0125.chunk.css": "/ApricusGHPDeploy/static/css/2.383c0125.chunk.css",
+    "static/js/2.e11a1e03.chunk.js": "/ApricusGHPDeploy/static/js/2.e11a1e03.chunk.js",
+    "static/js/2.e11a1e03.chunk.js.map": "/ApricusGHPDeploy/static/js/2.e11a1e03.chunk.js.map",
+    "static/js/3.1d54fc48.chunk.js": "/ApricusGHPDeploy/static/js/3.1d54fc48.chunk.js",
+    "static/js/3.1d54fc48.chunk.js.map": "/ApricusGHPDeploy/static/js/3.1d54fc48.chunk.js.map",
+    "index.html": "/ApricusGHPDeploy/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/ApricusGHPDeploy/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.daa26275.chunk.css.map": "/ApricusGHPDeploy/static/css/main.daa26275.chunk.css.map",
+    "static/js/2.e11a1e03.chunk.js.LICENSE.txt": "/ApricusGHPDeploy/static/js/2.e11a1e03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6307e71c.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.e11a1e03.chunk.js",
+    "static/css/main.daa26275.chunk.css",
+    "static/js/main.1b37a782.chunk.js"
+  ]
+}

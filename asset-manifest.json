@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://bojiix.github.io/ApricusGHPDeploy/static/css/main.4843b2a9.chunk.css",
-    "main.js": "https://bojiix.github.io/ApricusGHPDeploy/static/js/main.28581ded.chunk.js",
-    "main.js.map": "https://bojiix.github.io/ApricusGHPDeploy/static/js/main.28581ded.chunk.js.map",
+    "main.css": "https://bojiix.github.io/ApricusGHPDeploy/static/css/main.03013342.chunk.css",
+    "main.js": "https://bojiix.github.io/ApricusGHPDeploy/static/js/main.ad16809c.chunk.js",
+    "main.js.map": "https://bojiix.github.io/ApricusGHPDeploy/static/js/main.ad16809c.chunk.js.map",
     "runtime-main.js": "https://bojiix.github.io/ApricusGHPDeploy/static/js/runtime-main.2966d064.js",
     "runtime-main.js.map": "https://bojiix.github.io/ApricusGHPDeploy/static/js/runtime-main.2966d064.js.map",
     "static/css/2.383c0125.chunk.css": "https://bojiix.github.io/ApricusGHPDeploy/static/css/2.383c0125.chunk.css",
-    "static/js/2.390fe8db.chunk.js": "https://bojiix.github.io/ApricusGHPDeploy/static/js/2.390fe8db.chunk.js",
-    "static/js/2.390fe8db.chunk.js.map": "https://bojiix.github.io/ApricusGHPDeploy/static/js/2.390fe8db.chunk.js.map",
+    "static/js/2.3232822a.chunk.js": "https://bojiix.github.io/ApricusGHPDeploy/static/js/2.3232822a.chunk.js",
+    "static/js/2.3232822a.chunk.js.map": "https://bojiix.github.io/ApricusGHPDeploy/static/js/2.3232822a.chunk.js.map",
     "static/js/3.d41a9fe3.chunk.js": "https://bojiix.github.io/ApricusGHPDeploy/static/js/3.d41a9fe3.chunk.js",
     "static/js/3.d41a9fe3.chunk.js.map": "https://bojiix.github.io/ApricusGHPDeploy/static/js/3.d41a9fe3.chunk.js.map",
     "index.html": "https://bojiix.github.io/ApricusGHPDeploy/index.html",
     "static/css/2.383c0125.chunk.css.map": "https://bojiix.github.io/ApricusGHPDeploy/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.4843b2a9.chunk.css.map": "https://bojiix.github.io/ApricusGHPDeploy/static/css/main.4843b2a9.chunk.css.map",
-    "static/js/2.390fe8db.chunk.js.LICENSE.txt": "https://bojiix.github.io/ApricusGHPDeploy/static/js/2.390fe8db.chunk.js.LICENSE.txt",
+    "static/css/main.03013342.chunk.css.map": "https://bojiix.github.io/ApricusGHPDeploy/static/css/main.03013342.chunk.css.map",
+    "static/js/2.3232822a.chunk.js.LICENSE.txt": "https://bojiix.github.io/ApricusGHPDeploy/static/js/2.3232822a.chunk.js.LICENSE.txt",
     "static/media/es_flag.jpg": "https://bojiix.github.io/ApricusGHPDeploy/static/media/es_flag.a76a0c31.jpg",
     "static/media/uk_flag.jpg": "https://bojiix.github.io/ApricusGHPDeploy/static/media/uk_flag.92f90fa1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2966d064.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.390fe8db.chunk.js",
-    "static/css/main.4843b2a9.chunk.css",
-    "static/js/main.28581ded.chunk.js"
+    "static/js/2.3232822a.chunk.js",
+    "static/css/main.03013342.chunk.css",
+    "static/js/main.ad16809c.chunk.js"
   ]
 }
